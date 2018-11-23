@@ -10,4 +10,4 @@ that we are searching for (for example face,eye) second the location (x,y) and t
 <h2> second step is using Helen Dataset on this link :http://www.ifp.illinois.edu/~vuongle2/helen/</h2>
 and preprcessing and build cnn model to predict the 195 point for input image
 
-
+update done 
